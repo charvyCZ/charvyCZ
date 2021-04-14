@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charvyCZ
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java & JS
+- 🌱 I’m currently learning Java, JS & Python
 
 <!---
 charvyCZ/charvyCZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
