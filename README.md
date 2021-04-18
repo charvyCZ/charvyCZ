@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @charvyCZ
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, JS & Python
+Hello! My name is charvyCZ. I enjoy programming and trying new things.
+
+Currently a use/learn this:
+- Java (Spigot API)
+- JS 
+- Python (marginally, because of school)
 
 <!---
 charvyCZ/charvyCZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
