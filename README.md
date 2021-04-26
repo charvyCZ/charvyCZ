@@ -5,7 +5,7 @@ Currently a use/learn this:
 - JS 
 - Python (marginally, because of school)
 
-I'm currently learning **RegEx - Java**
+I'm currently learning **RegEx - Java 🤮**
 
 <!---
 charvyCZ/charvyCZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
