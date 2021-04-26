@@ -2,7 +2,7 @@ Hello! My name is charvyCZ. I enjoy programming and trying new things.
 
 Currently a use/learn this:
 - Java (Spigot API)
-- JS 
+- JavaScript
 - Python (marginally, because of school)
 
 I'm currently learning **RegEx - Java 🤮**
